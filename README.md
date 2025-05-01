@@ -28,6 +28,7 @@ This repository is primarily for publishing, but if you're a researcher or devel
 
 ## 📬 Contact
 - GitHub: [@TeamMohamed](https://github.com/TeamMohamed)
-- Direct collaborations: Open via ECS Biohacked site or GitHub messages
+- email: ecssignalling@gmail.com
+- Direct collaborations: Open via email or GitHub messages
 
 > “We are not hacking biology. We are decoding it.” – A.M.
