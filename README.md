@@ -1,28 +1,33 @@
-# ECS Biohacked | Quantum Vault Storefront
+ECS Biohacked | Quantum Vault Storefront
 
-Welcome to the official GitHub Pages site for **ECS Biohacked** — a multi-platform initiative pioneering advanced cancer protocols, quantum-integrated therapeutics, and sovereign healing systems.
+Welcome to the official GitHub Pages site for ECS Biohacked — a multi-platform initiative pioneering advanced cancer protocols, quantum-integrated therapeutics, and sovereign healing systems.
 
-## 🔬 Quantum Vault Offerings
+🔬 Quantum Vault Offerings
 
-- **10+ Books** (Cancer, Epilepsy, ECS, Hallmarks, miRNA, and more)
-- **4 Signature Courses** (Quantum Blueprint, ECS + Ayurveda, Biohacking Kit, 3-Day Activation)
-- **Therapeutic OS Platforms** (Cancer OS, Neuro OS, DNA OS)
-- **Precision AI App Concept** for Oncology & Longevity (Phase 2)
-- **Zenodo/Preprint White Papers** (26+ timestamped publications)
+- 10+ Books (Cancer, Epilepsy, ECS, Hallmarks, miRNA, and more)
+- 4 Signature Courses (Quantum Blueprint, ECS + Ayurveda, Biohacking Kit, 3-Day Activation)
+- Therapeutic OS Platforms (Cancer OS, Neuro OS, DNA OS)
+- Precision AI App Concept for Oncology & Longevity (Phase 2)
+- Zenodo/Preprint White Papers (26+ timestamped publications)
 
-## 🌐 Live Site
+🌐 Live Site
 
 👉 Visit: [https://ecsbiohacked.com](https://ecsbiohacked.com)
 
-## 📦 Repo Features
+📦 Repo Features
 
 - `index.html` — Full storefront with product grid and CTA buttons
 - `favicon.ico` — Branding icon
 - `CNAME` — Live domain: ecsbiohacked.com
 - `.github/workflows/github-pages.yml` — Auto-deployment pipeline
 
----
 
-Want to contribute, license content, or explore co-launch potential? Reach out.
+📬 Contact & Collaborations
 
-🧬 **Quantum Therapeutic Sovereignty is Live.**
+This repository is part of an open-access, sovereign science initiative. If you're aligned with this mission, feel free to reach out:
+
+- GitHub: [@TeamMohamed](https://github.com/TeamMohamed)
+- Email: ecssignalling@gmail.com
+- Direct collaborations: Open via email or GitHub messages
+
+> “We are not hacking biology. We are decoding it.” – A.M.
